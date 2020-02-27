@@ -1,0 +1,6 @@
+type: material
+name: Platinum
+description: Rare metal
+hardness: 10
+cost: 7
+color: 87ced6

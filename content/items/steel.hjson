@@ -1,0 +1,6 @@
+type: material
+name: Steel
+description: Common alloy
+hardness: 5
+cost: 3
+color: 303030

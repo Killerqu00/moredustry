@@ -1,0 +1,6 @@
+type: material
+name: Iron
+description: Common material
+hardness: 3
+cost: 2
+color: b2bbbc
