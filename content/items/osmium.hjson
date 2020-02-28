@@ -1,0 +1,6 @@
+type: material
+name: Osmium
+description: Very rare metal.
+hardness: 15
+cost: 10
+color: 0b0bac

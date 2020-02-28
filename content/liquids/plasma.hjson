@@ -1,0 +1,7 @@
+name: Plasma
+description: Very hot substance used for destroying everything on its way
+flammability: 0
+temperature: 1
+viscosity: 0.5
+explosiveness: 1
+color: 87ceeb

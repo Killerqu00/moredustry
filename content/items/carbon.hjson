@@ -1,0 +1,6 @@
+type: resource
+name: Carbon
+description: Pure carbon extracted from coal. Used to make diamonds.
+hardness: 1
+cost: 1
+color: 333333
