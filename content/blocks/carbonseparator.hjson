@@ -9,7 +9,7 @@ consumes: {
   power: 1
   items: {
     items: [
-      coal/16
+      coal/10
     ]
   }
 }
