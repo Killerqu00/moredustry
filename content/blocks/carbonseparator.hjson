@@ -1,0 +1,23 @@
+type: GenericCrafter
+name: Carbon Separator
+description: Uses energy to make pure carbon from coal.
+outputItem: carbon/1
+size: 2
+hasPower: true
+craftTime: 150
+updateEffect: smeltSmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      coal/16
+    ]
+  }
+}
+requirements: [
+  steel/100
+  lead/50
+  silicon/20
+]
+category: crafting
+research: kiln
