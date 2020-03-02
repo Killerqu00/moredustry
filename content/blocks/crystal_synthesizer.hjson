@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Crystal synthesizer
+description: Uses a lot of energy and water to make diamonds from pure carbon.
+outputItem: diamond/1
+size: 4
+hasPower: true
+craftTime: 20
+consumes: {
+  power: 6
+  items: {
+    items: [
+      carbon/5
+  }
+  liquid: {
+    liquid: [
+      water/2
+    ]
+  }
+}
+requirements: [
+  steel/250
+  platinum/100
+  silicon/75
+]
+category: crafting
+research: carbonseparator
