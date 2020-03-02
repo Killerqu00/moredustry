@@ -12,11 +12,7 @@ consumes: {
       carbon/5
     ]
   }
-  liquid: {
-    liquid: [
-      water/2
-    ]
-  }
+  liquid: water/2
 }
 requirements: [
   steel/250
