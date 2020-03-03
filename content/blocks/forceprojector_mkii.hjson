@@ -5,3 +5,4 @@ health: 1080
 radius: 150
 breakage: 1300
 category: effect
+research: overdrive-projector
