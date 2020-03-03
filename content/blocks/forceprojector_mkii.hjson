@@ -14,6 +14,11 @@ basePowerDraw: 0.1
 canOverdrive: true
 consumes: {
   power: 1
+  items: {
+    diamond/1
+    booster: true
+    optional: true
+  }
 }
 category: effect
 requirements: [
