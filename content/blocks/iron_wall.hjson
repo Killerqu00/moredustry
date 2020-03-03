@@ -1,0 +1,10 @@
+name: Iron Wall
+description: A wall made of Iron. It's not even interesting.
+type: Wall
+health: 500
+size: 1
+requirements: [
+  iron/6
+]
+category: defense
+research: copper-wall

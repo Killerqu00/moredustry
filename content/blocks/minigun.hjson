@@ -1,0 +1,29 @@
+type: DoubleTurret
+name: Minigun
+description: Shoots with iron balls at very high speed.
+health: 200
+size: 2
+reload: 1
+range: 90
+ammoUseEffect: shellEjectSmall
+inaccuracy: 1
+rotatespeed: 1
+shotWidth: 4
+ammo: {
+  iron: {
+    speed: 10
+    damage: 5
+    bulletWidth: 1
+    bulletHeight: 1
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 1
+  }
+}
+requirements: [
+  steel/200
+  iron/50
+  silicon/20
+]
+category: turret
+research: duo

@@ -1,0 +1,28 @@
+type: ItemTurret
+name: Railgun
+description: Shoots with steel rods.
+health: 200
+size: 4
+reload: 300
+range: 130
+ammoUseEffect: shellEjectBig
+inaccuracy: 0
+rotatespeed: 3
+ammo: {
+  steel: {
+    speed: 10
+    damage: 1500
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+}
+requirements: [
+  steel/300
+  lead/150
+  osmium/50
+]
+category: turret
+research: minigun

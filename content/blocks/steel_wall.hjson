@@ -1,0 +1,13 @@
+name: Steel Wall
+description: A wall made of Steel. It can deflect some damage as a lightning.
+type: SurgeWall
+health: 750
+size: 1
+lightningChance: 0.1
+lightningDamage: 15
+lightningLength: 20
+requirements: [
+  steel/6
+]
+category: defense
+research: copper-wall

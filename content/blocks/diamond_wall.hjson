@@ -1,7 +1,7 @@
 name: Diamond Wall
 description: A wall made of Diamond. It creates very strong lightning, but it's very easy to break.
 type: SurgeWall
-health: 50
+health: 200
 size: 1
 lightningChance: 0.75
 lightningDamage: 70
