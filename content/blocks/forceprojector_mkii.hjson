@@ -12,16 +12,16 @@ cooldownLiquid: 3
 cooldownBrokenBase: 0.5
 basePowerDraw: 0.1
 canOverdrive: true
-consumes: [
+consumes: {
   power: 1
   items: {
     items: [
       diamond/1
     ]
+    booster: true
+    optional: true
   }
-  booster: true
-  optional: true
-]
+}
 category: effect
 requirements: [
   steel/300
