@@ -2,5 +2,5 @@ name: Water extractor Mk. II
 description: Works in deeper layers that standart water extractor. Makes more water.
 health: 300
 type: SolidPump
-result: water/4
+result: water
 hasPower:true
