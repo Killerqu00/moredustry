@@ -11,4 +11,5 @@ requirements: [
   iron/100
   diamond/50
 ]
+consumes: diamond
 research: overdrive-projector
