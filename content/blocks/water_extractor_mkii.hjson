@@ -3,4 +3,13 @@ description: Works in deeper layers that standart water extractor. Makes more wa
 health: 300
 type: SolidPump
 result: water
-hasPower:true
+pumpAmount: 1
+hasPower: true
+consumes: {
+  power: 1
+}
+requirements: [
+  steel/100
+  platinum/75
+  graphite/50
+]
