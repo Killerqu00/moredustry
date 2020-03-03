@@ -3,3 +3,4 @@ description: It is better that force projector in all ways.
 radius: 150
 breakage: 1300
 health: 1080
+type: ForceProjector
