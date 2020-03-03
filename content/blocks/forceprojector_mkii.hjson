@@ -2,7 +2,7 @@ name: Force projector Mk. II
 description: It is better that force projector in all ways.
 type: ForceProjector
 health: 1080
-radius: 150.0
+radius: 100
 breakage: 1300
 category: effect
 requirements: [
