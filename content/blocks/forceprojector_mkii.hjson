@@ -6,9 +6,9 @@ size: 4
 phaseUseTime: 1000
 phaseRadiusBoost: 200
 radius: 100
-breakage: 1300
-cooldownNormal: 2
-cooldownLiquid: 3
+breakage: 860
+cooldownNormal: 1.5
+cooldownLiquid: 2.5
 cooldownBrokenBase: 0.5
 basePowerDraw: 0.1
 canOverdrive: true
