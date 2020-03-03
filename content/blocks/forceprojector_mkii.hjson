@@ -2,8 +2,22 @@ name: Force projector Mk. II
 description: It is better that force projector in all ways.
 type: ForceProjector
 health: 1080
+size: 4
+phaseUseTime: 1000
+phaseRadiusBoost: 200
 radius: 100
 breakage: 1300
+cooldownNormal: 2
+cooldownLiquid: 3
+cooldownBrokenBase: 0.5
+basePowerDraw: 0.1
+canOverdrive: true
+consumes: [
+  power: 1
+  items: [{diamond/1}]
+  booster: true
+  optional: true
+]
 category: effect
 requirements: [
   steel/300
@@ -11,5 +25,4 @@ requirements: [
   iron/100
   diamond/50
 ]
-consumes: diamond
 research: overdrive-projector
