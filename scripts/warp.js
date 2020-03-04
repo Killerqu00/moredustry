@@ -3,7 +3,7 @@ const silo = extendContent(Block, "scatter-silo", {
     // override the method to build configuration
     buildConfiguration(tile, table) {
         table.addImageButton(
-            Icon.arrowUpSmall,
+            Icon.ok,
             Styles.clearTransi,
 
             // configure the tile to signal that it has been
