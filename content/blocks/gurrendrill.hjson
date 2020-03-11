@@ -1,7 +1,6 @@
 name: Gurren drill
 description: Truly top tier drill, which will pierce the heavens.
 type: Drill
-health: 999
 tier: 999
 liquidBoostIntensity: 1.5
 warmupSpeed: 0.05
