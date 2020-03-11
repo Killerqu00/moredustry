@@ -10,4 +10,4 @@ warmupSpeed: 0.05
 updateEffect: hitMeltdown
 rotateSpeed: 3
 updateEffectChance: 0.05
-
+category: production
