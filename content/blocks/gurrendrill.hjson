@@ -2,7 +2,9 @@ name: Gurren drill
 description: Truly top tier drill, which will pierce the heavens.
 type: Drill
 size: 4
+health: 2000
 tier: 3
+drillTime: 2300
 liquidBoostIntensity: 1.5
 warmupSpeed: 0.05
 updateEffect: hitMeltdown
