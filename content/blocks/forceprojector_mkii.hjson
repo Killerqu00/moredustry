@@ -2,7 +2,7 @@ name: Force projector Mk. II
 description: It is better that force projector in all ways.
 type: ForceProjector
 health: 1080
-size: 4
+size: 3
 phaseUseTime: 1000
 phaseRadiusBoost: 200
 radius: 100
