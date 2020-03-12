@@ -4,7 +4,7 @@ type: Drill
 size: 4
 health: 2000
 tier: 5
-drillTime: 24204
+drillTime: 180
 consumes: {
   power: 5
   liquid: {
