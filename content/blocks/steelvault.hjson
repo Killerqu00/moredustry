@@ -1,0 +1,15 @@
+name: Steel vault Mk. III
+description: Stores more items.
+type: Vault
+itemCapacity: 5000
+hasItems: true
+health: 2500
+size: 3
+requirements: [
+  steel/100
+  titanium/60
+  thorium/40
+  osmium/10
+]
+category: effect
+research: vault
