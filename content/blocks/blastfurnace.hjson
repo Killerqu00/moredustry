@@ -2,7 +2,7 @@ type: GenericCrafter
 name: Blast furnace
 description: Smelts steel from pure carbon and iron.
 outputItem: steel/1
-size: 4
+size: 3
 hasPower: true
 craftTime: 50
 consumes: {
