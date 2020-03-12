@@ -14,7 +14,7 @@ consumes: {
   }
 }
 requirements: [
-  steel/100
+  iron/100
   lead/50
   silicon/20
 ]
