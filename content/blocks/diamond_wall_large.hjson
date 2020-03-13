@@ -1,5 +1,5 @@
 name: Large Diamond Wall
-description: A wall made of Diamond. It creates very strong lightning, but it's very easy to break.
+description: It creates very strong lightning, but it's very easy to break.
 type: SurgeWall
 health: 800
 size: 2

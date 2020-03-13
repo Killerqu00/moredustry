@@ -1,5 +1,5 @@
 name: Iron Wall
-description: A wall made of Iron. It's not even interesting.
+description: It's not even interesting.
 type: Wall
 health: 500
 size: 1

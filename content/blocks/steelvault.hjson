@@ -1,5 +1,5 @@
 name: Steel vault Mk. III
-description: Stores more items.
+description: Stores very big amount of items.
 type: Vault
 itemCapacity: 5000
 hasItems: true
