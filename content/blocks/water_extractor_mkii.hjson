@@ -6,6 +6,7 @@ result: water
 size: 2
 pumpAmount: 0.25
 hasPower: true
+category: production
 consumes: {
   power: 1
 }
