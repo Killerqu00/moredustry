@@ -15,4 +15,5 @@ weapon: {
     speed: 10
     damage: 100
     hitEffect: hitBulletSmall
+  }
 }
