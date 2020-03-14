@@ -1,6 +1,6 @@
 type: material
 name: Steel
-description: Common alloy
+description: Very useful alloy.
 hardness: 5
 cost: 3
 color: 303030
