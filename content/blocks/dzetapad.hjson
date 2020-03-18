@@ -1,6 +1,0 @@
-name: Dzeta mech pad
-description: Turns your mech into a sniper mech.
-type: MechPad
-health: 500
-mech: dzeta
-buildTime: 300
