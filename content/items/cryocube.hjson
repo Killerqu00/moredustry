@@ -1,0 +1,6 @@
+type: resource
+name: Cryocube
+description: Solid cryogen.
+hardness: 999
+cost: 1
+color: 6fffff

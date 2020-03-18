@@ -1,0 +1,7 @@
+name: Smelted rock
+description: Used in rock separator to make advanced metals.
+flammability: 1
+temperature: 1
+viscosity: 0
+explosiveness: 0
+color: 666666
