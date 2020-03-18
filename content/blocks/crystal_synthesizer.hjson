@@ -16,7 +16,7 @@ consumes: {
 }
 requirements: [
   steel/250
-  platinum/100
+  osmium/100
   silicon/75
 ]
 category: crafting
